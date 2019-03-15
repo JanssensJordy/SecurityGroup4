@@ -1,7 +1,9 @@
 # Rurdy Client
 
-This is the source code of the SPA,
+This is the source code of the SPA and API,
 used in the assignment web application security of group 4.
+
+The API has been build in ASP.NET and the SPA is constructed with Vue.js
 
 ## Project setup
 
