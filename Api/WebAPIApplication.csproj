@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <UserSecretsId>4f116164-bbb1-40d0-b565-f3ca1bdf8ed7</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IdentityModel" Version="3.10.6" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+  
+</Project>
